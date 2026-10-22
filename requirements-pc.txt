@@ -1,0 +1,3 @@
+# PC (NVIDIA, AMD ou processeur seul). Installer torch et torchaudio d'abord, selon la carte graphique (voir CLAUDE.md).
+# qwen-tts installe aussi transformers, gradio, librosa et soundfile.
+qwen-tts==0.1.1

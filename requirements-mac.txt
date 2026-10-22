@@ -1,0 +1,4 @@
+# Mac Apple Silicon (M1 et suivants). Versions testées ensemble.
+mlx-audio==0.6.0
+mlx-whisper==0.4.3
+gradio==6.30.0
